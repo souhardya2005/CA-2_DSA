@@ -22,7 +22,7 @@ int main() {
         printf("%d ", arr[i]);
     }
 
-    insert(arr, &n, pos, value); // Calling the insert function
+    insert(arr, &n, pos, value); 
 
     printf("\nArray after insertion: ");
     for (int i = 0; i < n; i++) {
