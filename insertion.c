@@ -7,7 +7,7 @@ void insert(int arr[], int *n, int pos, int value) {
     }
    
     arr[pos] = value;
-    /
+    
     (*n)++;
 }
 
